@@ -33,6 +33,4 @@ yarn.lock
 /.idea/libraries  
 *.idea  
 **.iml
-**.testing
-*testit
 libraries

@@ -32,5 +32,6 @@ yarn.lock
 /.idea/misc.xml  
 /.idea/libraries  
 *.idea  
-*.iml
+**.iml
+**.testing
 libraries
